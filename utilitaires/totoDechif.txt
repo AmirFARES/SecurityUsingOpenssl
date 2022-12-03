@@ -1,0 +1,8 @@
+Savez vous c'est quoi le SYNFLOOD ? 
+
+Les SYNFloods
+
+Il est difficile d'ávaluer la date du premier DoS par SYNFlood. En effet, et comme nous le verrons plus loin dans ce dossier, 
+les SYNFloods font partie des DoS par concepts. Cela signifie qu'ils sont la consáquence directe d'une erreur de spácification 
+d'un protocole ou d'une application. UDP est spoofing ready, TCP est DoS Ready, chacun sa croix. Aussi est-il d'usage de dire 
+que les SYNFloods existent depuis que TCP existe.
